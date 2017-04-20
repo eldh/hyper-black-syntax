@@ -1,7 +1,7 @@
 {
   "name": "hyper-black-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Black minimal atom syntax theme, forked off hyper-ui",
   "keywords": [
     "hyper",
